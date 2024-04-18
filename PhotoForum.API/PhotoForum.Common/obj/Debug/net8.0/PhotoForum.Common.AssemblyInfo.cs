@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhotoForum.Common")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75116f009c13fedad77b7394dc067dfd44f9d8a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhotoForum.Common")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhotoForum.Common")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

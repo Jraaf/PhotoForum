@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jnzw4WJwworkhPqvodUnus/pqcECxM29XIHo/a3sX3Z39A3E4eZi7YftsjlITR3OCY25nL/e1a2+qRtiTAJ4Bg==",
+  "dgSpecHash": "IEi7Hje5t2xU15HBgDkEPqL5lF+wwXV+udlLZLJtLBI8tEFak6DkgjVAl3YeL1WoNRKMSMWerdIt1Uwnmnblgw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Acer\\Desktop\\projects\\PhotoForum\\PhotoForum.API\\PhotoForum\\PhotoForum.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

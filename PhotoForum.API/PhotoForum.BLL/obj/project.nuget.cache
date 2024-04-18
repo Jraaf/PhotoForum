@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oZT+YnNXLIIDn7FVopOWXie5nGfKPHOwmSJzoD8hLHpoL6wazoYZkpXQewBVeXlt4Ujb0W9A+JO6QUVVTsz3ng==",
+  "dgSpecHash": "7gKgOIe7e5I76Cz/J2F4bMyRcwyrEA7v9y4fUKWA/W9R40zteIXKYPjW2gzaCKAi5hr6q91tTz28lzESLp4tBQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Acer\\Desktop\\projects\\PhotoForum\\PhotoForum.API\\PhotoForum.BLL\\PhotoForum.BLL.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
