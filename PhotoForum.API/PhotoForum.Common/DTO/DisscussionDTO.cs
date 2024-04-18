@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace PhotoForum.Common.DTO
 {
-    public class CreateDisscusionDTO
+    public class DisscussionDTO
     {
-        public int Id { get; set; }
         public string Header { get; set; } = string.Empty;
         public string Text { get; set; } = string.Empty;
     }

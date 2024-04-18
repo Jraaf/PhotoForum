@@ -13,3 +13,6 @@ C:\Users\Acer\Desktop\projects\PhotoForum\PhotoForum.API\PhotoForum.Common\obj\D
 C:\Users\Acer\Desktop\projects\PhotoForum\PhotoForum.API\PhotoForum.Common\obj\Debug\net8.0\PhotoForum.Common.pdb
 C:\Users\Acer\Desktop\projects\PhotoForum\PhotoForum.API\PhotoForum.Common\obj\Debug\net8.0\PhotoForum.Common.genruntimeconfig.cache
 C:\Users\Acer\Desktop\projects\PhotoForum\PhotoForum.API\PhotoForum.Common\obj\Debug\net8.0\ref\PhotoForum.Common.dll
+C:\Users\Acer\Desktop\projects\PhotoForum\PhotoForum.API\PhotoForum.Common\bin\Debug\net8.0\PhotoForum.DAL.dll
+C:\Users\Acer\Desktop\projects\PhotoForum\PhotoForum.API\PhotoForum.Common\bin\Debug\net8.0\PhotoForum.DAL.pdb
+C:\Users\Acer\Desktop\projects\PhotoForum\PhotoForum.API\PhotoForum.Common\obj\Debug\net8.0\PhotoForum.Common.csproj.CopyComplete

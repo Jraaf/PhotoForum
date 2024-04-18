@@ -13,8 +13,8 @@ namespace PhotoForum.Common.Profiles
     {
         public DisscusionProfile()
         {
-            CreateMap<Disscusion, DisscusionDTO>();
-            CreateMap<CreateDisscusionDTO, Disscusion>();
+            CreateMap<Disscusion, DisscussionDTO>();
+            CreateMap<CreateDisscussionDTO, Disscusion>();
         }
     }
 }

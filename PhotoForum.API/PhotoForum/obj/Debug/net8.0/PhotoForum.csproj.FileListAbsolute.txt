@@ -140,3 +140,5 @@ C:\Users\Acer\Desktop\projects\PhotoForum\PhotoForum.API\PhotoForum\bin\Debug\ne
 C:\Users\Acer\Desktop\projects\PhotoForum\PhotoForum.API\PhotoForum\bin\Debug\net8.0\PhotoForum.BLL.pdb
 C:\Users\Acer\Desktop\projects\PhotoForum\PhotoForum.API\PhotoForum\bin\Debug\net8.0\PhotoForum.Common.pdb
 C:\Users\Acer\Desktop\projects\PhotoForum\PhotoForum.API\PhotoForum\bin\Debug\net8.0\PhotoForum.DAL.pdb
+C:\Users\Acer\Desktop\projects\PhotoForum\PhotoForum.API\PhotoForum\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Acer\Desktop\projects\PhotoForum\PhotoForum.API\PhotoForum\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
