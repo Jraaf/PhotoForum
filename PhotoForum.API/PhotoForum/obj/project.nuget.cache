@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bEX454/Hz6Mw0Ca7HS5Hz04JuBm5o2p6ezjrerr2Q9M7bEywUHVSI7OwJohTX3TjXkEPzu47TK/R+wYvWLpajg==",
+  "dgSpecHash": "vBz1zyHsAxtlpR8Gh+8y69WUY0VWuVOCncNy28CvbYny7YTfDA5Li+ENSCjB51Qd3/d84EKozx7+eI+k3uXtUg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Acer\\Desktop\\projects\\PhotoForum\\PhotoForum.API\\PhotoForum\\PhotoForum.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\Acer\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\mediabrowser.common\\4.8.5\\mediabrowser.common.4.8.5.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.4\\microsoft.aspnetcore.authentication.jwtbearer.8.0.4.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",

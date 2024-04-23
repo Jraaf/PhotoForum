@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using PhotoForum.Attributes;
 using PhotoForum.BLL.Services.Interfaces;
 using PhotoForum.Common.DTO;
 
@@ -6,12 +7,13 @@ namespace PhotoForum.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class DisscussionController : ControllerBase
     {
         private readonly IDisscussionService _service;
         public DisscussionController(IDisscussionService service)
         {
-            _service=service;
+            _service = service;
         }
         [HttpGet("{id}")]
         public async Task<DisscussionDTO> Get(int id)
@@ -19,9 +21,9 @@ namespace PhotoForum.Controllers
             return await _service.GetByIdAsync(id);
         }
         [HttpGet]
-        public async IAsyncEnumerable<List<DisscussionDTO>> GetAll()
+        public async Task<List<DisscussionDTO>> GetAll()
         {
-            yield return await _service.GetAllAsync();
+            return await _service.GetAllAsync();
         }
         [HttpPost]
         public async Task<bool> Post(CreateDisscussionDTO obj)

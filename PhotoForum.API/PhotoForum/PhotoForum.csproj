@@ -26,10 +26,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\PhotoForum.BLL\PhotoForum.BLL.csproj" />
     <ProjectReference Include="..\PhotoForum.Common\PhotoForum.Common.csproj" />
     <ProjectReference Include="..\PhotoForum.DAL\PhotoForum.DAL.csproj" />

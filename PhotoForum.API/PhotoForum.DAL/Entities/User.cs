@@ -13,5 +13,5 @@ public class User
     public string Username { get; set; }=string.Empty;
     public string Email { get; set; }=string.Empty;
     public string PasswordHash { get; set; } = string.Empty;
-    public byte[] ProfilePicture { get; set; }
+    public string? PhotoLink { get; set; }
 }

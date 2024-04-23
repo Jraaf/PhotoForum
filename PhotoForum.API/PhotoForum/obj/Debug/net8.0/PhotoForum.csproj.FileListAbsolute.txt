@@ -142,3 +142,7 @@ C:\Users\Acer\Desktop\projects\PhotoForum\PhotoForum.API\PhotoForum\bin\Debug\ne
 C:\Users\Acer\Desktop\projects\PhotoForum\PhotoForum.API\PhotoForum\bin\Debug\net8.0\PhotoForum.DAL.pdb
 C:\Users\Acer\Desktop\projects\PhotoForum\PhotoForum.API\PhotoForum\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\Acer\Desktop\projects\PhotoForum\PhotoForum.API\PhotoForum\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Acer\Desktop\projects\PhotoForum\PhotoForum.API\PhotoForum\bin\Debug\net8.0\Emby.Media.Model.dll
+C:\Users\Acer\Desktop\projects\PhotoForum\PhotoForum.API\PhotoForum\bin\Debug\net8.0\Emby.Web.GenericEdit.dll
+C:\Users\Acer\Desktop\projects\PhotoForum\PhotoForum.API\PhotoForum\bin\Debug\net8.0\MediaBrowser.Common.dll
+C:\Users\Acer\Desktop\projects\PhotoForum\PhotoForum.API\PhotoForum\bin\Debug\net8.0\MediaBrowser.Model.dll

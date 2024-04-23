@@ -19,9 +19,9 @@ namespace PhotoForum.Controllers
             return await _service.GetByIdAsync(id);
         }
         [HttpGet]
-        public async IAsyncEnumerable<List<PhotoDTO>> GetAll()
+        public async Task<List<PhotoDTO>> GetAll()
         {
-            yield return await _service.GetAllAsync();
+            return await _service.GetAllAsync();
         }
         [HttpPost]
         public async Task<bool> Post(CreatePhotoDTO obj)

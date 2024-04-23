@@ -78,6 +78,26 @@
           }
         }
       },
+      "MediaBrowser.Common/4.8.5": {
+        "runtime": {
+          "lib/netstandard2.0/Emby.Media.Model.dll": {
+            "assemblyVersion": "4.8.5.0",
+            "fileVersion": "4.8.5.0"
+          },
+          "lib/netstandard2.0/Emby.Web.GenericEdit.dll": {
+            "assemblyVersion": "4.8.5.0",
+            "fileVersion": "4.8.5.0"
+          },
+          "lib/netstandard2.0/MediaBrowser.Common.dll": {
+            "assemblyVersion": "4.8.5.0",
+            "fileVersion": "4.8.5.0"
+          },
+          "lib/netstandard2.0/MediaBrowser.Model.dll": {
+            "assemblyVersion": "4.8.5.0",
+            "fileVersion": "4.8.5.0"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Authentication.JwtBearer/8.0.4": {
         "dependencies": {
           "Microsoft.IdentityModel.Protocols.OpenIdConnect": "7.1.2"
@@ -903,6 +923,7 @@
       "PhotoForum.BLL/1.0.0": {
         "dependencies": {
           "AutoMapper": "13.0.1",
+          "MediaBrowser.Common": "4.8.5",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.4",
           "Microsoft.EntityFrameworkCore": "8.0.4",
           "Microsoft.EntityFrameworkCore.Relational": "8.0.4",
@@ -976,6 +997,13 @@
       "sha512": "sha512-lQKvtaTDOXnoVJ20ibTuSIOf2i0uO0MPbDhd1jm238I+U/2ZnRENj0cktKZhtchBMtCUSRQ5v4xBCUbKNmyVMw==",
       "path": "humanizer.core/2.14.1",
       "hashPath": "humanizer.core.2.14.1.nupkg.sha512"
+    },
+    "MediaBrowser.Common/4.8.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fuJk00dysKCoK7LgbimFf5632kvSOW3YuMJpRoUXyQHStBiyUFi17mpjbI6GZdVabpCLnwNTAuZpbaCcOwQmDw==",
+      "path": "mediabrowser.common/4.8.5",
+      "hashPath": "mediabrowser.common.4.8.5.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Authentication.JwtBearer/8.0.4": {
       "type": "package",

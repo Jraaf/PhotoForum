@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhotoForum.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0ca70c7d4e1587913d7130868f0c7882e5314e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bba41bc338d7e5109391747142904d32d97a45aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhotoForum.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhotoForum.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
